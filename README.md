@@ -1,4 +1,7 @@
-# test coverage for  [gulp-shell (v0.6.3)](https://github.com/sun-zheng-an/gulp-shell)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-shell.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-shell) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-shell.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-shell)
+# npmtest-gulp-shell
+
+#### test coverage for  [gulp-shell (v0.6.3)](https://github.com/sun-zheng-an/gulp-shell)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-shell.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-shell) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-shell.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-shell)
+
 #### A handy command line interface for gulp
 
 [![NPM](https://nodei.co/npm/gulp-shell.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-shell)
