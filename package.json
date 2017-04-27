@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [gulp-shell (v0.6.3)](https://github.com/sun-zheng-an/gulp-shell)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-shell.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-shell) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-shell.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-shell)",
+    "description": "#### basic test coverage for  [gulp-shell (v0.6.3)](https://github.com/sun-zheng-an/gulp-shell)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-shell.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-shell) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-shell.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-shell)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "gulp-shell": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.3"
+    "version": "2017.4.27"
 }
